@@ -1,0 +1,133 @@
+22-Jun-2021 11:47:18.679 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/9.0.48
+22-Jun-2021 11:47:18.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 10 2021 09:22:01 UTC
+22-Jun-2021 11:47:18.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  9.0.48.0
+22-Jun-2021 11:47:18.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Linux
+22-Jun-2021 11:47:18.686 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     4.9.201-tegra
+22-Jun-2021 11:47:18.687 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          aarch64
+22-Jun-2021 11:47:18.687 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           /usr/lib/jvm/java-8-openjdk-arm64/jre
+22-Jun-2021 11:47:18.687 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          1.8.0_292-8u292-b10-0ubuntu1~18.04-b10
+22-Jun-2021 11:47:18.687 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Private Build
+22-Jun-2021 11:47:18.687 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:47:18.688 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:47:18.689 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=/home/jisung/apache-tomcat-9.0.48/conf/logging.properties
+22-Jun-2021 11:47:18.689 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Jun-2021 11:47:18.690 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+22-Jun-2021 11:47:18.690 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Jun-2021 11:47:18.690 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+22-Jun-2021 11:47:18.690 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+22-Jun-2021 11:47:18.691 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=/home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:47:18.691 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=/home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:47:18.691 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=/home/jisung/apache-tomcat-9.0.48/temp
+22-Jun-2021 11:47:18.698 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 기반의 Apache Tomcat Native 라이브러리의 예전 버전 [1.2.21](이)가 설치되어 있습니다. Tomcat은 최소 버전으로서 [1.2.30]을(를) 추천합니다.
+22-Jun-2021 11:47:18.699 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.6.3]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.21]을(를) 로드했습니다.
+22-Jun-2021 11:47:18.699 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+22-Jun-2021 11:47:18.699 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+22-Jun-2021 11:47:18.705 정보 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1  11 Sep 2018]
+22-Jun-2021 11:47:19.492 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-28080"]을(를) 초기화합니다.
+22-Jun-2021 11:47:19.549 정보 [main] org.apache.catalina.startup.Catalina.load [1311] 밀리초 내에 서버가 초기화되었습니다.
+22-Jun-2021 11:47:19.618 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+22-Jun-2021 11:47:19.618 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.48]
+22-Jun-2021 11:47:19.640 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/docs]을(를) 배치합니다.
+22-Jun-2021 11:47:20.233 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/docs]에 대한 배치가 [590] 밀리초에 완료되었습니다.
+22-Jun-2021 11:47:20.234 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/manager]을(를) 배치합니다.
+22-Jun-2021 11:47:20.312 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/manager]에 대한 배치가 [77] 밀리초에 완료되었습니다.
+22-Jun-2021 11:47:20.312 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/examples]을(를) 배치합니다.
+22-Jun-2021 11:47:20.897 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/examples]에 대한 배치가 [584] 밀리초에 완료되었습니다.
+22-Jun-2021 11:47:20.897 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/ROOT]을(를) 배치합니다.
+22-Jun-2021 11:47:20.933 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/ROOT]에 대한 배치가 [36] 밀리초에 완료되었습니다.
+22-Jun-2021 11:47:20.934 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/host-manager]을(를) 배치합니다.
+22-Jun-2021 11:47:20.977 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/host-manager]에 대한 배치가 [44] 밀리초에 완료되었습니다.
+22-Jun-2021 11:47:20.985 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-28080"]을(를) 시작합니다.
+22-Jun-2021 11:47:21.008 정보 [main] org.apache.catalina.startup.Catalina.start 서버가 [1458] 밀리초 내에 시작되었습니다.
+22-Jun-2021 11:56:18.180 정보 [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+22-Jun-2021 11:56:18.181 정보 [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-28080"]을(를) 일시 정지 중
+22-Jun-2021 11:56:18.193 정보 [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+22-Jun-2021 11:56:18.239 정보 [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-28080"]을(를) 중지시킵니다.
+22-Jun-2021 11:56:18.244 정보 [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-28080"]을(를) 소멸시킵니다.
+22-Jun-2021 11:56:27.607 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/9.0.48
+22-Jun-2021 11:56:27.613 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 10 2021 09:22:01 UTC
+22-Jun-2021 11:56:27.614 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  9.0.48.0
+22-Jun-2021 11:56:27.614 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Linux
+22-Jun-2021 11:56:27.614 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     4.9.201-tegra
+22-Jun-2021 11:56:27.614 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          aarch64
+22-Jun-2021 11:56:27.615 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           /usr/lib/jvm/java-8-openjdk-arm64/jre
+22-Jun-2021 11:56:27.615 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          1.8.0_292-8u292-b10-0ubuntu1~18.04-b10
+22-Jun-2021 11:56:27.615 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Private Build
+22-Jun-2021 11:56:27.615 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:56:27.615 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:56:27.617 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=/home/jisung/apache-tomcat-9.0.48/conf/logging.properties
+22-Jun-2021 11:56:27.617 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Jun-2021 11:56:27.617 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+22-Jun-2021 11:56:27.618 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Jun-2021 11:56:27.618 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+22-Jun-2021 11:56:27.618 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+22-Jun-2021 11:56:27.618 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=/home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:56:27.618 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=/home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:56:27.619 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=/home/jisung/apache-tomcat-9.0.48/temp
+22-Jun-2021 11:56:27.626 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 기반의 Apache Tomcat Native 라이브러리의 예전 버전 [1.2.21](이)가 설치되어 있습니다. Tomcat은 최소 버전으로서 [1.2.30]을(를) 추천합니다.
+22-Jun-2021 11:56:27.627 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.6.3]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.21]을(를) 로드했습니다.
+22-Jun-2021 11:56:27.627 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+22-Jun-2021 11:56:27.627 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+22-Jun-2021 11:56:27.633 정보 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1  11 Sep 2018]
+22-Jun-2021 11:56:28.404 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-28080"]을(를) 초기화합니다.
+22-Jun-2021 11:56:28.463 정보 [main] org.apache.catalina.startup.Catalina.load [1295] 밀리초 내에 서버가 초기화되었습니다.
+22-Jun-2021 11:56:28.533 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+22-Jun-2021 11:56:28.534 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.48]
+22-Jun-2021 11:56:28.555 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/docs]을(를) 배치합니다.
+22-Jun-2021 11:56:29.155 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/docs]에 대한 배치가 [597] 밀리초에 완료되었습니다.
+22-Jun-2021 11:56:29.156 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/manager]을(를) 배치합니다.
+22-Jun-2021 11:56:29.235 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/manager]에 대한 배치가 [78] 밀리초에 완료되었습니다.
+22-Jun-2021 11:56:29.235 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/examples]을(를) 배치합니다.
+22-Jun-2021 11:56:29.820 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/examples]에 대한 배치가 [585] 밀리초에 완료되었습니다.
+22-Jun-2021 11:56:29.821 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/ROOT]을(를) 배치합니다.
+22-Jun-2021 11:56:29.857 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/ROOT]에 대한 배치가 [36] 밀리초에 완료되었습니다.
+22-Jun-2021 11:56:29.858 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/host-manager]을(를) 배치합니다.
+22-Jun-2021 11:56:29.904 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/host-manager]에 대한 배치가 [46] 밀리초에 완료되었습니다.
+22-Jun-2021 11:56:29.912 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-28080"]을(를) 시작합니다.
+22-Jun-2021 11:56:29.931 정보 [main] org.apache.catalina.startup.Catalina.start 서버가 [1467] 밀리초 내에 시작되었습니다.
+22-Jun-2021 11:58:04.341 정보 [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+22-Jun-2021 11:58:04.342 정보 [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-28080"]을(를) 일시 정지 중
+22-Jun-2021 11:58:04.351 정보 [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+22-Jun-2021 11:58:04.409 정보 [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-28080"]을(를) 중지시킵니다.
+22-Jun-2021 11:58:04.456 정보 [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-28080"]을(를) 소멸시킵니다.
+22-Jun-2021 11:58:13.065 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/9.0.48
+22-Jun-2021 11:58:13.072 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 10 2021 09:22:01 UTC
+22-Jun-2021 11:58:13.072 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  9.0.48.0
+22-Jun-2021 11:58:13.072 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Linux
+22-Jun-2021 11:58:13.072 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     4.9.201-tegra
+22-Jun-2021 11:58:13.072 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          aarch64
+22-Jun-2021 11:58:13.073 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           /usr/lib/jvm/java-8-openjdk-arm64/jre
+22-Jun-2021 11:58:13.073 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          1.8.0_292-8u292-b10-0ubuntu1~18.04-b10
+22-Jun-2021 11:58:13.073 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Private Build
+22-Jun-2021 11:58:13.073 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:58:13.074 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:58:13.075 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=/home/jisung/apache-tomcat-9.0.48/conf/logging.properties
+22-Jun-2021 11:58:13.076 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Jun-2021 11:58:13.076 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+22-Jun-2021 11:58:13.076 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Jun-2021 11:58:13.076 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+22-Jun-2021 11:58:13.076 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+22-Jun-2021 11:58:13.077 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=/home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:58:13.077 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=/home/jisung/apache-tomcat-9.0.48
+22-Jun-2021 11:58:13.077 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=/home/jisung/apache-tomcat-9.0.48/temp
+22-Jun-2021 11:58:13.084 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 기반의 Apache Tomcat Native 라이브러리의 예전 버전 [1.2.21](이)가 설치되어 있습니다. Tomcat은 최소 버전으로서 [1.2.30]을(를) 추천합니다.
+22-Jun-2021 11:58:13.085 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 버전 [1.6.3]을(를) 사용한, APR 기반 Apache Tomcat Native 라이브러리 [1.2.21]을(를) 로드했습니다.
+22-Jun-2021 11:58:13.085 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR 용량정보들: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+22-Jun-2021 11:58:13.085 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL 설정: useAprConnector [false], useOpenSSL [true]
+22-Jun-2021 11:58:13.091 정보 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL이 성공적으로 초기화되었습니다: [OpenSSL 1.1.1  11 Sep 2018]
+22-Jun-2021 11:58:13.870 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-28080"]을(를) 초기화합니다.
+22-Jun-2021 11:58:13.936 정보 [main] org.apache.catalina.startup.Catalina.load [1302] 밀리초 내에 서버가 초기화되었습니다.
+22-Jun-2021 11:58:14.005 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+22-Jun-2021 11:58:14.006 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/9.0.48]
+22-Jun-2021 11:58:14.027 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/docs]을(를) 배치합니다.
+22-Jun-2021 11:58:14.608 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/docs]에 대한 배치가 [578] 밀리초에 완료되었습니다.
+22-Jun-2021 11:58:14.608 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/manager]을(를) 배치합니다.
+22-Jun-2021 11:58:14.687 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/manager]에 대한 배치가 [78] 밀리초에 완료되었습니다.
+22-Jun-2021 11:58:14.687 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/examples]을(를) 배치합니다.
+22-Jun-2021 11:58:15.265 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/examples]에 대한 배치가 [578] 밀리초에 완료되었습니다.
+22-Jun-2021 11:58:15.266 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/ROOT]을(를) 배치합니다.
+22-Jun-2021 11:58:15.301 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/ROOT]에 대한 배치가 [35] 밀리초에 완료되었습니다.
+22-Jun-2021 11:58:15.302 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/host-manager]을(를) 배치합니다.
+22-Jun-2021 11:58:15.346 정보 [main] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/home/jisung/apache-tomcat-9.0.48/webapps/host-manager]에 대한 배치가 [44] 밀리초에 완료되었습니다.
+22-Jun-2021 11:58:15.355 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-28080"]을(를) 시작합니다.
+22-Jun-2021 11:58:15.385 정보 [main] org.apache.catalina.startup.Catalina.start 서버가 [1448] 밀리초 내에 시작되었습니다.
